@@ -9,7 +9,7 @@
 3. `cd` into your newly cloned repository
 4. Create a new branch by typing `git checkout -b <firstName-lastName>`
 5. Work on your branch, push commits 
-6. When all your tasks are complete DM Brit the link to your repo
+6. When all your tasks are complete DM your instructor the link to your pull request
 
 ### Task 2 - MVP code
 
